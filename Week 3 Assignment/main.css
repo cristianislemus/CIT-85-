@@ -1,0 +1,10 @@
+img {width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 20%;
+    background-color:royalblue;
+    margin: 30px;
+}
+
+div {display: inline-block;
+}
