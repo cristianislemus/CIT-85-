@@ -1,0 +1,52 @@
+/*Specificty according to calculator: 1 */
+h1 {width: 50%;
+    height: auto;
+    border: solid gold;
+    display: block;
+    border-width: 10px;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    margin-left: 25%;
+    color: black}
+
+/*Specificty according to calculator: 1 */
+div {width: auto;
+    height: fit-content;
+    border:solid red; 
+    box-sizing: border-box;
+    display: inline;
+    font-size: small;
+    color:black}
+
+/*Specificty according to calculator: 1 */
+p { width:fit-content;
+    height:auto;
+    border:solid purple;
+    color:black}
+
+/*Specificty according to calculator: 10 */
+.Thawed {color:orange} 
+
+/*Specificty according to calculator: 10 */
+.Frozen {color:blue;} 
+
+/*Specificty according to calculator: 10 */
+.Gross {color:brown;}
+
+/*Specificty according to calculator: 10 */
+.Yummy {color:maroon;}
+
+/*Specificty according to calculator: 100 */
+#Dairy {color:magenta;}
+
+/*Specificty according to calculator: 100 */
+#Produce {color:deeppink;}
+
+/*Specificty according to calculator: 0 */
+* {color: black;}
+
+
+
+
+    
