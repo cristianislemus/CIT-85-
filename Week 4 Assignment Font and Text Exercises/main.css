@@ -1,0 +1,30 @@
+h1 {font-size: 3rem;
+    text-align: center;
+    text-shadow: 2px 2px 1px blue;
+    padding-top: 2%;
+    padding-bottom: 2%;}
+
+div {font-size: 1.5rem;
+    line-height: 3rem;}
+
+#one {font-family: serif;
+    text-indent: 5%;}
+
+#two {font-family: sans-serif;
+      text-transform: uppercase;
+      font-style: italic;}
+
+#three {text-decoration:none;
+        color: blue;}
+
+a:hover {text-decoration: underline;}
+
+#four {font-family:'Cinzel', serif;
+       font-weight: 200;}
+
+#five {font-family: 'Cinzel', serif;
+       font-weight: 800;}
+
+#six {letter-spacing: .4rem;}
+
+#seven {text-decoration: line-through;}
