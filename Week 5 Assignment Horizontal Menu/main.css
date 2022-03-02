@@ -1,0 +1,10 @@
+li {display: inline-block; 
+    border: solid black;
+    border-radius: 40%;}
+
+a {display: inline-block;
+    border-radius: 40%;
+    text-decoration: none;
+    padding: 10px;}
+
+a:hover {background-color: red;}
