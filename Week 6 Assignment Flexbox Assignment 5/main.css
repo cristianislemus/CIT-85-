@@ -1,0 +1,26 @@
+body {display: flex;
+    width:600px;
+    height:300px;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    color: white;}
+
+
+#one {height: 100%;
+    background-color: navy;
+    width: 25%;}
+ 
+#two {height: 50%;
+    background-color:royalblue;
+    width: 100%;}
+
+#three {height: 50%;
+    background-color:lightskyblue;
+    width: 100%;}
+
+#border {border:solid red;
+        box-sizing: border-box;
+        width: 75%;
+        height: 100%;}
