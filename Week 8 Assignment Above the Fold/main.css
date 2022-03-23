@@ -1,0 +1,20 @@
+div {display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(../../Downloads/paradise.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px solid red;
+    box-sizing: border-box;}
+
+
+p {text-align: center;
+    color: whitesmoke;
+    font-size: 4rem;}
+    
+ul {height: 500px;}
+
+
+    
+
