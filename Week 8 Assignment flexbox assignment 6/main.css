@@ -1,0 +1,10 @@
+ul {display: flex;
+    flex-flow: row wrap;
+    background-color: dodgerblue;
+    width: 100%;
+    justify-content: end;
+    align-items: center;}
+
+li {padding: 10px;
+    color: white;}
+
