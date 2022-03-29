@@ -9,8 +9,7 @@ div {display: flex;
     box-sizing: border-box;}
 
 
-p {text-align: center;
-    color: whitesmoke;
+p {color: whitesmoke;
     font-size: 4rem;}
     
 ul {height: 500px;}

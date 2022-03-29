@@ -1,0 +1,12 @@
+#aside1 {order: 2;
+    height: 100px;
+    width: 20%;}
+
+p {order: 3;
+    width: 60%;}
+
+#aside2 {order: 4;
+    height: 100px;
+    width: 20%;}
+
+footer {order: 5;}
