@@ -1,0 +1,47 @@
+body {background-color: black;
+    color: white;}
+
+nav {height: 55px;
+    width: cover;
+    background-color: red;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;}
+
+article {height: 130px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;}
+
+section {display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;}
+
+li {list-style-type: none;}
+
+a:hover {color: dimgray;}
+
+a:visited {color: black;}
+
+ul {height: 55px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;}
+
+img {background-color: rgb(45, 44, 44);
+    box-shadow: 10px 10px 30px red;}
+
+#instagram-logo {background-color: red;
+    height: 51px;
+    width:auto;}
+
+
+
