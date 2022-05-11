@@ -1,0 +1,6 @@
+body {height: 100vh;}
+
+div {width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 100%;}
