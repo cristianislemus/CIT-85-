@@ -1,0 +1,25 @@
+body {background-color: lightgray;}
+
+#background-image {height:100vh;
+    width: 100vw;}
+
+#selfie {position: absolute;
+    height: 53.5vh;
+    top: 60vh;
+    left: 37.2vw;}
+
+nav {display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 19px;
+    width: 100vw;
+    height: 40px;
+    color: white;
+    background-color:burlywood;
+    border: 3px solid black;}
+
+a:hover {color: blue;}
+
+a:visited {color: blue;}
+
+#resume {width: 100vw;}
